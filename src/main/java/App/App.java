@@ -1,4 +1,4 @@
-package org.lasencinas;
+package wallet;
 
 
 import java.security.KeyPair;
